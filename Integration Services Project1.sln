@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Integration Services Project - Employee Data Migration", "Integration Services Project1\Integration Services Project - Employee Data Migration.dtproj", "{BAD0061F-4466-44A7-B261-1B7D17F23CEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAD0061F-4466-44A7-B261-1B7D17F23CEF}.Development|Default.ActiveCfg = Development
+		{BAD0061F-4466-44A7-B261-1B7D17F23CEF}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBADF6A7-1D74-4961-A30B-DE4A595D4668}
+	EndGlobalSection
+EndGlobal
